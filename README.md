@@ -1,5 +1,5 @@
 # NTEC_Vessel_Analysis
-Specific endothelial cells govern nanoparticle entry into solid tumours (Kingston et al., 2021)
+Code for specific endothelial cells govern nanoparticle entry into solid tumours (Kingston et al., 2021)
 
 # Convert .czi files to multipage .tiff files for each imaging channel
 This is done using the convert_czi_to_ometiff_revised_func.m fuction. 

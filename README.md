@@ -1,5 +1,5 @@
 # NTEC_Vessel_Analysis
-Code for specific endothelial cells govern nanoparticle entry into solid tumours (Kingston et al., 2021)
+Code for specific endothelial cells govern nanoparticle entry into solid tumours (Kingston et al., 2021). All code was evaluated with MATLAB 2019a with the DIP image toolbox with DIP image v2.7 (http://www.diplib.org or https://github.com/DIPlib/diplib).
 
 # Convert .czi files to multipage .tiff files for each imaging channel
 This is done using the convert_czi_to_ometiff_revised_func.m fuction. 
